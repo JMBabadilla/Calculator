@@ -113,6 +113,10 @@ button#equal {
     height: 130px;
 }
 
+.footer p {
+    text-align: center;
+}
+
 /*light theme*/
 
 .calculator {
